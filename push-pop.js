@@ -1,6 +1,6 @@
-const friends = ['siam', 'samir', 'dihan', 'sadman'];
+const friends = ["siam", "samir", "dihan", "sadman"];
 
-friends.push('sahaf');
+friends.push("sahaf");
 console.log(friends);
 friends.pop();
 friends.pop();
