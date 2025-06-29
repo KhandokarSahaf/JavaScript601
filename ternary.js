@@ -10,7 +10,7 @@ const totalPrice = 300;
 // This is short version of if else condition using ternary
 totalPrice > 200 ? console.log(`discount 10 taka`) : console.log(`no discount`);
 
-// advance ternary 02
+// advance ternary 02 
 let price = 500;
 let leader = true;
 
